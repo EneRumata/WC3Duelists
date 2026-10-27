@@ -1,4 +1,4 @@
-"Duelists_2_0_1.w3x" is the map file for 1.26a version of TFT. Unprotected, can be opened in JNGP World Editor.
+"Duelists_2_0_2.w3x" is the map file for 1.26a version of TFT. Unprotected, can be opened in JNGP World Editor.
 
 "map_code_with_standard_innites.j" file was created using JNPG and contains all the standard and non-standard map code.
 
